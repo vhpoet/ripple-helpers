@@ -1,4 +1,6 @@
-ripple-helper
+ripple-helpers
 =============
 
-Ripple Helper
+Ripple Helpers
+
+Applescript tools for Ripple
